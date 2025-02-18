@@ -97,6 +97,26 @@ The project is hosted at: [Your-Deployment-URL]
 
 This project is for educational purposes only. All Google-related branding and design elements belong to Google LLC.
 
-## Images
+## 📸 Interface Screenshots
+
+### Email Entry Page
+The first step of the authentication process features a clean, minimalist design following Google's material design principles:
+- Google's iconic logo
+- Email input field with floating label
+- "Forgot email?" option
+- Create account and Next buttons
+- Language selector and help options
+
 ![alt text Email entry page](image.png)
+
+### Password Entry Page
+The second step maintains the consistent design language while adding security features:
+- Welcome message with user's email
+- Password input with show/hide toggle
+- Option to switch accounts
+- Forgot password link
+- Secure submission handling
+
 ![alt text Password entry page](image-1.png)
+
+Both pages feature responsive design, adapting seamlessly to different screen sizes while maintaining Google's signature aesthetic and user experience.
